@@ -20,7 +20,7 @@ import Security from "./pages/Security";
 import Features from "./pages/Features";
 import Login from "./pages/Login";
 import NotFound from "./pages/NotFound";
-import Analytics from "./pages/dashboard/Analytics";
+import Analytics from "./pages/dashboard/analytics";
 import EmbedGenerator from "./pages/dashboard/embed";
 import SettingsPage from "./pages/dashboard/settings";
 
